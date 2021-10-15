@@ -1,0 +1,35 @@
+﻿[
+	{
+		"Agno": 2015,
+		"Periodo": "Año",
+		"Parametro": "2015",
+		"Valor": 575,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Año",
+		"Parametro": "2016",
+		"Valor": 600,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Año",
+		"Parametro": "2017",
+		"Valor": 600,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Año",
+		"Parametro": "2018",
+		"Valor": 650,
+		"Estado": "Definitivo",
+		"Notas": ""
+	}
+
+]
