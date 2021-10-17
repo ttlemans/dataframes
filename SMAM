@@ -1,0 +1,98 @@
+[
+		{
+			"Agno": 2008,
+			"Periodo": "Año",
+			"Parametro": "2008",
+			"Valor": 25269.609375,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2009,
+			"Periodo": "Año",
+			"Parametro": "2009",
+			"Valor": 25860.650390625,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2010,
+			"Periodo": "Año",
+			"Parametro": "2010",
+			"Valor": 25988.94921875,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2011,
+			"Periodo": "Año",
+			"Parametro": "2011",
+			"Valor": 25845.19921875,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2012,
+			"Periodo": "Año",
+			"Parametro": "2012",
+			"Valor": 26044.390625,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2013,
+			"Periodo": "Año",
+			"Parametro": "2013",
+			"Valor": 26215.359375,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2014,
+			"Periodo": "Año",
+			"Parametro": "2014",
+			"Valor": 26570.349609375,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2015,
+			"Periodo": "Año",
+			"Parametro": "2015",
+			"Valor": 26448.0390625,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2016,
+			"Periodo": "Año",
+			"Parametro": "2016",
+			"Valor": 26330.140625,
+			"Estado": "Definitivo",
+			"Notas": null
+		},
+		{
+			"Agno": 2017,
+			"Periodo": "Año",
+			"Parametro": "2017",
+			"Valor": 27089.12,
+			"Estado": "Definitivo",
+			"Notas": ""
+		},
+		{
+			"Agno": 2018,
+			"Periodo": "Año",
+			"Parametro": "2018",
+			"Valor": 27010.93,
+			"Estado": "Definitivo",
+			"Notas": ""
+		},
+		{
+			"Agno": 2019,
+			"Periodo": "Año",
+			"Parametro": "2019",
+			"Valor": 27817.76,
+			"Estado": "Definitivo",
+			"Notas": ""
+		}
+    ]
